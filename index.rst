@@ -7,7 +7,7 @@ Cánon Printer Error B200
 	  :align: center    
 	  :height: 100px    
 	  :alt:    
-	  :target: https://kannonprintererror5800.readthedocs.io/en/latest
+	  :target: https://kannonprintererrorb200.readthedocs.io/en/latest
 |
 
 Cánon printer users are terrified of **Cánon Printer Error B200*** message as most users take it as a sign that the time for
